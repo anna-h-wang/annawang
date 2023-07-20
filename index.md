@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a PhD student in Civil Engineering at McGill University. I obtained my MS in Structural Engineering from UC San Diego in 2022 and my BS in Mechanical Engineering from Georgia Tech in 2020.
 
 ## Research Interests
 
