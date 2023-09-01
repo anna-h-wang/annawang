@@ -10,7 +10,7 @@ I recently completed my M.S. in Structural Engineering from UC San Diego with an
 
 My industry background spans multiple disciplines including construction litigation, structural engineering/mechanics, and mechanical testing of composites/polymers. Prior to starting my PhD, I worked as an Associate Project Consultant at SGH’s Engineering, Mechanics, & Infrastructure division, where I obtained my EIT license. 
 
-If you are a student interested in pursuing anything from my background or if you just want some advice about navigating your college career, I am more than willing to chat with you! I would not be where I am today without my mentors, and I am happy to pay it forward. Please don't hesitate to connect with me on LinkedIn or email me at anna.wang4@mail.mcgill.ca
+If you are a student interested in pursuing engineering or if you just want some advice about navigating your college career, I am more than willing to chat with you! I would not be where I am today without my mentors, and I am happy to pay it forward. Please don't hesitate to connect with me on LinkedIn or email me at anna.wang4@mail.mcgill.ca
 
 ## Research Interests
 
