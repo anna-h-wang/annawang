@@ -6,7 +6,7 @@ layout: homepage
 
 I am currently a PhD student at McGill University under the supervision of Dr. Daniele Malomo. My research covers masonry structures, earthquake engineering, and structural assessment & retrofit. I also research engineering education, focusing on implementing design-build-test projects and makerspace learning.
 
-If you are a student interested in pursuing engineering or if you just want some advice about navigating your college career, I am more than willing to chat with you! I would not be where I am today without my mentors, and I am happy to pay it forward. Please don't hesitate to connect with me on LinkedIn or email me at anna.wang4@mail.mcgill.ca
+If you are a student interested in pursuing engineering or if you just want some advice about navigating your college career, I am more than willing to chat with you! I would not be where I am today without my mentors, and I am happy to pay it forward. Please don't hesitate to connect with me through LinkedIn or email.
 
 ## Research Interests
 
