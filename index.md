@@ -24,15 +24,15 @@ If you are a student interested in pursuing engineering or if you just want some
 {% include_relative _includes/services.md %}
 ## Teaching
 
-- **SE 1 Introduction to Structures & Design** UC San Diego. Fall 2022, Fall 2021.
-- **SE 3 Graphical Communications** UC San Diego. Spring 2023.
-- **SE 101A Statics** UC San Diego. Winter 2022.
-- **SE 103 Conceptual Structures and Design** UC San Diego. Winter 2022.
-- **PHYS 2212 Introduction to Electricity and Magnetism** Georgia Tech. Spring 2020.
-- **PHYS 2211 Introduction to Mechanics** Georgia Tech. Fall 2019.
+- **SE 1 Introduction to Structures & Design.** UC San Diego. Fall 2022, Fall 2021.
+- **SE 3 Graphical Communications.** UC San Diego. Spring 2023.
+- **SE 101A Statics.** UC San Diego. Winter 2022.
+- **SE 103 Conceptual Structures and Design.** UC San Diego. Winter 2022.
+- **PHYS 2212 Introduction to Electricity and Magnetism.** Georgia Tech. Spring 2020.
+- **PHYS 2211 Introduction to Mechanics.** Georgia Tech. Fall 2019.
 
 ## Industry Experience
 
-- **Simpson Gumpertz & Heger** Associate Project Consultant. Engineering Mechanics & Infrastructure. 2023.
-- **Solvay Specialty Polymers** Physical Mechanical Lab Research Analyst. 2022.
-- **Secretariat International** Construction Delay Analysis Intern. 2019.
+- **Simpson Gumpertz & Heger.** Associate Project Consultant. Engineering Mechanics & Infrastructure. 2023.
+- **Solvay Specialty Polymers.** Physical Mechanical Lab Research Analyst. 2022.
+- **Secretariat International.** Construction Delay Analysis Intern. 2019.
