@@ -2,7 +2,7 @@
 title: Anna Wang
 position: PhD Student in Civil Engineering
 affiliation: McGill University
-email: anna.wang4@mail.mcgill.ca
+email: anna.wang4 [at] mail.mcgill.ca
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -19,7 +19,7 @@ twitter: https://twitter.com/anna_h_wang
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/anna.jpg
+avatar: ./assets/img/Anna.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
