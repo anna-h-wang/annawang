@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a PhD student at McGill University under the supervision of Dr. Daniele Malomo. My research covers masonry structures, earthquake engineering, and structural assessment & retrofit. I also research engineering education, focusing on implementing design-build-test projects and makerspace learning.
+I am currently a PhD student at McGill University under the supervision of Dr. Daniele Malomo. My research covers masonry structures, earthquake engineering, and structural assessment & retrofit. I also research engineering education, focusing on implementing design-build-test projects and makerspace learning into introductory engineering courses.
 
 If you are a student interested in pursuing engineering or if you just want some advice about navigating your college career, I am more than willing to chat with you! I would not be where I am today without my mentors, and I am happy to pay it forward. Please don't hesitate to connect with me through LinkedIn or email.
 
