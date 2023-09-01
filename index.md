@@ -22,7 +22,6 @@ If you are a student interested in pursuing engineering or if you just want some
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
-
 ## Teaching
 
 - **SE 1 Introduction to Structures & Design** UC San Diego. Fall 2022, Fall 2021.
