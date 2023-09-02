@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="papertitle"><a href="https://peer.asee.org/gotta-catch-em-all-learning-graphical-communications-through-an-introductory-hands-on-design-build-test-project-in-a-hybrid-learning-environment">Gotta Catch ‘Em All: Learning Graphical Communications Through an Introductory Hands-on Design-Build-Test Project in a Hybrid Learning Environment</a></div>
+    <div class="papertitle"><strong><a href="https://peer.asee.org/gotta-catch-em-all-learning-graphical-communications-through-an-introductory-hands-on-design-build-test-project-in-a-hybrid-learning-environment">Gotta Catch ‘Em All: Learning Graphical Communications Through an Introductory Hands-on Design-Build-Test Project in a Hybrid Learning Environment</a></strong></div>
     <div class="author"><strong>Anna Wang</strong>, Lelli Van Den Einde, Nathan Delson</div>
     <div class="periodical"><em>ASEE Annual Conference & Exposition<strong></strong>, 2023.</em></div>
     <div class="links">
