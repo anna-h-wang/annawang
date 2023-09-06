@@ -4,9 +4,11 @@ position: PhD Student in Civil Engineering
 affiliation: McGill University
 email: anna.wang4 [at] mail.mcgill.ca
 bachelors: Georgia Institute of Technology
-BS: B.S. Mechanical Engineering
+BS: BS Mechanical Engineering, 2020
 masters: University of California San Diego
-MS: M.S. Structural Engineering
+MS: MS Structural Engineering, 2022
+doctorate: McGill University
+PhD: PhD Civil Engineering, Present
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -17,7 +19,7 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=saGrYA4AAAAJ&hl=en
-cv_link: assets/files/curriculum_vitae.pdf
+cv_link: assets/files/Wang_Anna_CV_Sep2023.pdf
 linkedin: https://www.linkedin.com/in/anna-h-wang/
 twitter: https://twitter.com/anna_h_wang
 
