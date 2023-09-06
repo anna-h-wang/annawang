@@ -194,9 +194,15 @@ papertitle {
       width: 8.00em;
     }
 
-h3, h4, h5, h6 {
+h3, h5, h6 {
   font-weight: 600;
   color:#C0737A;
+  margin:0 0 20px;
+}
+
+h4 {
+  font-weight: 600;
+  color:#595959;
   margin:0 0 20px;
 }
 
@@ -217,7 +223,7 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   line-height:1.1;
 }
 
@@ -226,7 +232,11 @@ h1 {
 }
 
 h3 {
-  font-size:12px;
+  font-size:18px;
+}
+
+h4 {
+  font-size:16px;
 }
 
 a {
