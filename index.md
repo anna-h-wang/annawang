@@ -10,8 +10,8 @@ If you are a student interested in pursuing engineering or if you just want some
 
 ## Research Interests
 
-- **Masonry Structures:** old unreinforced masonry, structural assesment & retrofit
-- **Earthquake Engineering:** advanced numerical modelling techniques, virtual reality
+- **Masonry Structures:** old unreinforced masonry, structural assessment & retrofit
+- **Earthquake Engineering:** advanced numerical modeling techniques, virtual reality
 - **Engineering Education:** design-build-test projects, makerspace learning
 
 ## News
