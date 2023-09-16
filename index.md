@@ -35,4 +35,4 @@ If you are a student interested in pursuing engineering or if you just want some
 
 - **Simpson Gumpertz & Heger.** Associate Project Consultant. Engineering Mechanics & Infrastructure. 2022-2023.
 - **Solvay Specialty Polymers.** Physical Mechanical Lab Research Analyst. 2021.
-- **Secretariat International.** Construction Delay Analysis Intern. 2019.
+- **Secretariat International.** Construction Delay Litigation Intern. 2019.
